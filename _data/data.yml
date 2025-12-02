@@ -124,7 +124,7 @@ certifications:
     start: Feb 2022
     end: Feb 2022
     organization: Code Institute
-    credentialurl: https://github.com/manni8436/HoliDates
+    credentialurl: github.com/manni8436/HoliDates
     credentialname: Valentine’s Day Hackathon
     details: |
       My first hackathon with Code Institute, I enjoyed contributing the majority of the HTML to this project, and learning how to work with a team of developers.
@@ -132,7 +132,7 @@ certifications:
     start: May 2023
     end: May 2023
     organization: Code Institute
-    credentialurl: https://github.com/bezebee/star-wars-hackathon
+    credentialurl: github.com/bezebee/star-wars-hackathon
     credentialname: Star Wars Hackathon
     details: |
       My second hackathon with Code Institute, towards the end of my diploma, I was able to help with the game functionality using Python.
