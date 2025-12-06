@@ -153,20 +153,20 @@ projects:
     link: "https://github.com/AlexaH88/horizon-gamepedia"
     tagline: "My first portfolio project, using HTML and CSS to create a static front-end website. I chose the Horizon Zero Dawn and Horizon Forbidden West video games by Guerrilla Games as the theme, as I'm a massive fan."
 
-  - title: DevStudio
-    link: "#"
+  - title: PiaNotes
+    link: "https://github.com/AlexaH88/pianotes"
     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
-    link: "#"
+  - title: Harry Potter Adventure Game
+    link: "https://github.com/AlexaH88/harry-potter-adventure-game"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
+  - title: Anthemology 
+    link: "https://github.com/AlexaH88/anthemology"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
+  - title: Gamer Guild
+    link: "https://github.com/AlexaH88/gamer-guild"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
