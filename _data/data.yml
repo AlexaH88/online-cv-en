@@ -146,12 +146,12 @@ certifications:
 projects:
   title: Projects
   intro: >
-    📝 During my Full-Stack Software Development Diploma, I created a portfolio of 5 projects - handling everything from the idea, the design, and the code, to the testing.
-    🏅 I'm proud to say I received a Merit grade overall, with my very first project receiving a Distinction grade.
+    During my Full-Stack Software Development Diploma, I created a portfolio of 5 projects - handling everything from the idea, the design, and the code, to the testing.
+    I'm proud to say I received a Merit grade overall, with my very first project receiving a Distinction grade.
   assignments:
   - title: HTML & CSS - Horizon GamePedia - Grade: Distinction
     link: "https://github.com/AlexaH88/horizon-gamepedia"
-    tagline: "🕹 I created a static website about the Horizon Zero Dawn and Horizon Forbidden West video games by Guerrilla Games, which I am a massive fan of."
+    tagline: "I created a static website about the Horizon Zero Dawn and Horizon Forbidden West video games by Guerrilla Games, which I am a massive fan of."
 
   - title: DevStudio
     link: "#"
